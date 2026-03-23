@@ -145,7 +145,7 @@ The dashboard provides clear insights into **sales trends, regional performance,
 - Pivot Table Development  
 - KPI Calculation  
 - Dashboard Design  
-- Interactive Filtering Setup  
+- Interactive Filtering 
 - Data Visualization  
 - Insight Generation  
 - Business Problem Solving  
