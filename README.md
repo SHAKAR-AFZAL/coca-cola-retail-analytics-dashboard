@@ -21,7 +21,7 @@ _Transforming raw retail sales data into actionable business insights by buildin
 ## Overview
 This project focuses on solving real-world retail analytics problems by analyzing sales data from a beverage company (Coca-Cola style dataset).  
 
-An interactive Excel dashboard was developed to convert messy and unstructured data into meaningful insights for business decision-making.
+An interactive Excel dashboard was developed to convert messy and unstructured data into meaningful insights for business decision making.
 
 The dashboard highlights sales trends, regional performance, product-level insights, and overall profitability using dynamic and interactive visualizations.
 
