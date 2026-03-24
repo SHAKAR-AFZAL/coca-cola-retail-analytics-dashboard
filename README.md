@@ -28,7 +28,7 @@ The dashboard highlights sales trends, regional performance, product-level insig
 ---
 
 ## Project Objective
-The primary goals of this project are
+The primary goals of the project is to 
 
 - Clean and transform messy retail sales data  
 - Analyze total sales, units sold, and profit performance  
