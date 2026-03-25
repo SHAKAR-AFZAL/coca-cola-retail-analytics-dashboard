@@ -79,7 +79,7 @@ The dataset is structured in Excel format and includes:
 - KPI Summary (Total Sales, Units Sold, Profit, Margin)  
 - Monthly Sales Trend (Column Chart)  
 - US Map (Units Sold by State)  
-- Region-wise Analysis  
+- Region wise Analysis  
 - Product Performance Breakdown  
 
 **Dynamic Functionality**
