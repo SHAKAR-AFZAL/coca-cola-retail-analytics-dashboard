@@ -118,7 +118,7 @@ The dataset is structured in Excel format and includes:
 The Excel dashboard displays:
 
 - KPI summary for quick business overview  
-- Monthly sales trends  
+- Monthly Sales trends  
 - Geographic visualization using US map  
 - Product and retailer performance  
 - Interactive filters for deep analysis  
