@@ -80,7 +80,7 @@ The dataset is structured in Excel format and includes:
 - Monthly Sales Trend (Column Chart)  
 - US Map (Units Sold by State)  
 - Region wise Analysis  
-- Product Performance Breakdown  
+- Products Performance Breakdown  
 
 **Dynamic Functionality**
 - Timeline filter for monthly analysis  
