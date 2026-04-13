@@ -92,7 +92,7 @@ The dataset is structured in Excel format and includes:
 ## Key Insights
 
 ### Sales Performance
-- Total Sales exceed **$8.6M**, showing strong business performance  
+- Total Sales exceed **$8.6M**, which is showing strong business performance  
 - Sales peak observed during mid-year and year-end periods  
 
 ### Regional Insights
