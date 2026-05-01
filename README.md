@@ -1,4 +1,4 @@
-# 🥤 [Coca-Cola] Retail Sales Dashboard 
+#  [Coca-Cola] Retail Sales Dashboard 
 
 _Transforming raw retail sales data into actionable business insights by building a fully interactive Excel dashboard using real-world analytics techniques._
 
