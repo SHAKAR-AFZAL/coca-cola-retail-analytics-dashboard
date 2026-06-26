@@ -1,6 +1,6 @@
 # Retail Sales Analysis Dashboard 
 
-_Transforming the raw retail sales data into actionable business insights by building a fully interactive Excel dashboard using real-world analytics techniques._
+_Transforming the raw retail sales data into the actionable business insights by building a fully interactive Excel dashboard using real-world analytics techniques._
 
 ---
 
