@@ -132,7 +132,7 @@ This project demonstrates how raw and unstructured data can be transformed into 
 
 The dashboard provides clear insights into **sales trends, regional performance, and product behavior**, enabling businesses to:
 
-- Identify high-performing markets  
+- Identify high performing markets  
 - Track performance over time  
 - Optimize product strategies  
 - Support data-driven decisions  
