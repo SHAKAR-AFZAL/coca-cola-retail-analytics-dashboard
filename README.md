@@ -44,7 +44,7 @@ The primary goals of the project is to
 
 The dataset is structured in Excel format and includes:
 
-- Retailers  (BevCo, DreamCo, FizzySip, Sodapop)  
+- Retailers  (BevCo,DreamCo,FizzySip Sodapop)  
 - Beverage Brands (Coca-Cola, Sprite, Fanta, etc.)  
 - Sales Revenue  
 - Units Sold  
