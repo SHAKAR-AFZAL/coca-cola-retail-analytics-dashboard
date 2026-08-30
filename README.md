@@ -93,7 +93,7 @@ The dataset is structured in Excel format and includes:
 
 ### Sales Performance
 - Total Sales exceed **$8.6M**, which is showing strong business performance  
-- Sales peak observed during mid-year and year-end periods  
+- Sales peak observed during mid year and year-end periods  
 
 ### Regional Insights
 - Certain states (e.g., California, Texas) contribute significantly higher unit sales  
