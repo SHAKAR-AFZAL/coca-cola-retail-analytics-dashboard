@@ -23,7 +23,7 @@ This project focuses on solving real world retail analytics problems by analyzin
 
 An interactive Excel dashboard was developed to convert the messy and unstructured data into meaningful insights for business decision making.
 
-The dashboard highlights sales trends, regional performance, product-level insights, and overall profitability using dynamic and interactive visualizations.
+The dashboard highlights sales trends, regional performance, product level insights, and overall profitability using dynamic and interactive visualizations.
 
 ---
 
