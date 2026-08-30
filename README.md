@@ -85,7 +85,7 @@ The dataset is structured in Excel format and includes:
 **Dynamic Functionality**
 - Timeline filter for monthly analysis  
 - Fully connected slicers across all visuals  
-- Real-time dashboard updates  
+- Real time dashboard updates  
 
 ---
 
