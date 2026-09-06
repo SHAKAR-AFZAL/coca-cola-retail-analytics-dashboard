@@ -33,7 +33,7 @@ The primary goals of the project is to
 - Clean and transform messy retail sales data  
 - Analyze total sales, units sold, and profit performance  
 - Track monthly sales trends over time  
-- Identify high-performing regions and states  
+- Identify high performing regions and states  
 - Compare beverage brand performance  
 - Build a fully interactive dashboard for decision-making  
 
