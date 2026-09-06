@@ -128,7 +128,7 @@ The Excel dashboard displays:
 ---
 
 ## Conclusion
-This project demonstrates how raw and unstructured data can be transformed into a powerful decision-making tool using Excel.
+This project demonstrates how raw and unstructured data can be transformed into a powerful decision making tool using Excel.
 
 The dashboard provides clear insights into **sales trends, regional performance, and product behavior**, enabling businesses to:
 
