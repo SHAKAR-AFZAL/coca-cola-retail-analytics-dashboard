@@ -140,7 +140,7 @@ The dashboard provides clear insights into **sales trends, regional performance,
 ---
 
 ## Role & Contribution
-- Data Cleaning and Preparation  
+- Data Cleaning an Preparation  
 - Data Transformations  
 - Pivot Table Development  
 - KPI Calculation  
